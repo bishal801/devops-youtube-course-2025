@@ -1,1 +1,1 @@
-Learning Git and CI/CD
+Learning Git, GitHub and CI/CD
